@@ -19,7 +19,7 @@ The **silver** dataset is available at:
 * SILVER: [`.tar.gz` (Google Drive)]()
 
 
-## Paper
+## Reference
 If you use our data, please cite out paper:
 
 ```
