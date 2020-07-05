@@ -47,7 +47,7 @@ If you use our data, please cite out paper:
 * Michele Bevilacqua | `bevilacqua`*  | [@MicheleBevila20](https://twitter.com/MicheleBevila20)
 * Roberto Navigli    | `navigli`*     | [@rnavigli](https://twitter.com/rnavigli)
              
-![](http://mousse-project.org/imgs/people/Calabrese.png) |  ![](http://mousse-project.org/imgs/people/Bevilacqua.png) | ![](http://mousse-project.org/imgs/people/Navigli.png) 
+<img src="imgs/calabrese.jpg" width="200"> |  <img src"imgs/bevilacqua.jpg" width="200"> | <img src="imgs/navigli.jpg" width="200"> 
 Agostina Calabrese | Michele Bevilacqua | Roberto Navigli
 
 *`@di.uniroma1.it`
