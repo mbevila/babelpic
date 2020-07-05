@@ -1,4 +1,4 @@
-title: BabelPic
+title: tl;dr
 logo: https://pbs.twimg.com/media/EUvjiMCXYAAg1uZ?format=jpg&name=4096x4096
 description: BabelPic, a dataset targeting non-concrete concepts, built by cleaning the image-synset association found within BabelNet (https://babelnet.org/). BabelPic explicitly targets non-concrete concepts (including the cute example of affection above)!
 show_downloads: true
