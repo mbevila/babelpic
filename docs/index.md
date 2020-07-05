@@ -31,11 +31,16 @@ If you use our data, please cite out paper:
 ```
 
 ## Download
+
+We release our dataset in two formats. 
+* `.txt`: a tab-separated, plaintext file containing BabelNet id, url of the image, and filename (corresponding to an image file to be found in the `.tar.gz` file);
+* `.tar.gz`: an archive containing the images in BabelPic. The filenames point to the corresponding BabelNet ids.
+
 Download the **gold** BabelPic dataset at:
-* GOLD: [URL](), [images (Google Drive)]()
+* GOLD: [`.txt`](), [`.tar.gz` (Google Drive)]()
 
 The silver dataset is available at:
-* SILVER: [images (Google Drive)]()
+* SILVER: [`.tar.gz` (Google Drive)]()
 
 ## License
 This project is released under the CC-BY-NC 4.0 license.
