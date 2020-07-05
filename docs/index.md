@@ -4,7 +4,10 @@ layout: default
 # The BabelPic Project
 Welcome to the page of the BabelPic project!
 
-On the left you'll find a short tl;dr of what this is all about. But, even better, you can [read our paper](https://www.aclweb.org/anthology/2020.acl-main.425/)!
+BabelPic, is a dataset targeting non-concrete concepts, built by cleaning the image-synset association found within BabelNet (https://babelnet.org/).
+Our dataset was annotated manually and then extended using an authomatic concept verification technique.
+
+You can read our ACL2020 paper on [ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.425/)!
 
 ## Download
 
