@@ -43,14 +43,14 @@ If you use our data, please cite out paper:
 
 ## Authors
 
-* Agostina Calabrese | `calabrese.a` at `di.uniroma1.it` | [@agostina_cal](https://twitter.com/agostina_cal)
-* Michele Bevilacqua | `bevilacqua` at `di.uniroma1.it`  | [@MicheleBevila20](https://twitter.com/MicheleBevila20)
-* Roberto Navigli    | `navigli` at `di.uniroma1.it`     | [@rnavigli](https://twitter.com/rnavigli)
-
+* Agostina Calabrese | `calabrese.a`* | [@agostina_cal](https://twitter.com/agostina_cal)
+* Michele Bevilacqua | `bevilacqua`*  | [@MicheleBevila20](https://twitter.com/MicheleBevila20)
+* Roberto Navigli    | `navigli`*     | [@rnavigli](https://twitter.com/rnavigli)
              
-* Roberto Navigli  ![](http://mousse-project.org/imgs/people/Navigli.png)
+![](http://mousse-project.org/imgs/people/Calabrese.png) |  ![](http://mousse-project.org/imgs/people/Bevilacqua.png) | ![](http://mousse-project.org/imgs/people/Navigli.png) 
+Agostina Calabrese | Michele Bevilacqua | Roberto Navigli
 
-
+*`@di.uniroma1.it`
 ## License
 This project is released under the CC-BY-NC 4.0 license.
 
