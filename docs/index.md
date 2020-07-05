@@ -6,7 +6,7 @@ layout: default
 Welcome to the page of BabelPic, a project of the [Sapienza NLP Group](http://nlp.uniroma1.it), developed with the support of the awesome [Mousse ERC project](http://mousse-project.org/)!
 
 BabelPic, is a dataset targeting non-concrete concepts, built by cleaning the image-synset association found within [BabelNet](https://babelnet.org/).
-Our dataset was annotated manually and then extended using an authomatic concept verification technique.
+Our dataset was annotated manually and then extended using an automatic concept verification technique.
 
 You can read our ACL2020 paper on [ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.425/)!
 
