@@ -47,9 +47,8 @@ If you use our data, please cite out paper:
 * Michele Bevilacqua | `bevilacqua` at `di.uniroma1.it`  | [@MicheleBevila20](https://twitter.com/MicheleBevila20)
 * Roberto Navigli    | `navigli` at `di.uniroma1.it`     | [@rnavigli](https://twitter.com/rnavigli)
 
-             |
-:-------------------------:|:-------------------------:
-Roberto Navigli  |  ![](http://mousse-project.org/imgs/people/Navigli.png)
+             
+* Roberto Navigli  ![](http://mousse-project.org/imgs/people/Navigli.png)
 
 
 ## License
