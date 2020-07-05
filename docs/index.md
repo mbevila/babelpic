@@ -25,8 +25,8 @@ The **silver** dataset is available at:
 ## Statistics
 
 **Dataset** | **Images** | **Synsets**
-Gold        | XXX        | XXX
-Silver      | XXX        | XXX
+Gold        |  14,931    |   2,733
+Silver      |  10,013    |   XXX
 
 ## Reference
 If you use our data, please cite out paper:
