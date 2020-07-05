@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-## General Info
+# BabelPic
+
 Welcome to the page of BabelPic, a project of the [Sapienza NLP Group](http://nlp.uniroma1.it), developed with the support of the awesome [Mousse ERC project](http://mousse-project.org/)!
 
 BabelPic, is a dataset targeting non-concrete concepts, built by cleaning the image-synset association found within [BabelNet](https://babelnet.org/).
