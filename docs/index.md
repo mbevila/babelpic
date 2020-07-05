@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Info
+# The BabelPic Project
 Welcome to the page of the BabelPic project!
 
 On the left you'll find a short tl;dr of what this is all about. But, even better, you can [read our paper](https://www.aclweb.org/anthology/2020.acl-main.425/)!
