@@ -2,9 +2,9 @@
 layout: default
 ---
 # The BabelPic Project
-Welcome to the page of the BabelPic project!
+Welcome to the page of BabelPic, a project of the [Sapienza NLP Group](http://nlp.uniroma1.it), developed with the support of the awesome [Mousse ERC project](http://mousse-project.org/)!
 
-BabelPic, is a dataset targeting non-concrete concepts, built by cleaning the image-synset association found within BabelNet (https://babelnet.org/).
+BabelPic, is a dataset targeting non-concrete concepts, built by cleaning the image-synset association found within [BabelNet](https://babelnet.org/).
 Our dataset was annotated manually and then extended using an authomatic concept verification technique.
 
 You can read our ACL2020 paper on [ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.425/)!
@@ -42,15 +42,14 @@ If you use our data, please cite out paper:
 ```
 
 ## Authors
-
-* Agostina Calabrese | `calabrese.a`* | [@agostina_cal](https://twitter.com/agostina_cal)
-* Michele Bevilacqua | `bevilacqua`*  | [@MicheleBevila20](https://twitter.com/MicheleBevila20)
-* Roberto Navigli    | `navigli`*     | [@rnavigli](https://twitter.com/rnavigli)
              
-<img src="imgs/calabrese.jpg" width="200"> |  <img src"imgs/bevilacqua.jpg" width="200"> | <img src="imgs/navigli.jpg" width="200"> 
-Agostina Calabrese | Michele Bevilacqua | Roberto Navigli
+<img src="imgs/calabrese.jpg" width="200"> |  <img src="imgs/bevilacqua.jpg" width="200"> | <img src="imgs/navigli.jpg" width="200"> 
+[Agostina Calabrese](https://ago3.github.io) | [Michele Bevilacqua](https://mbevila.github.io) | [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/)
+`calabrese.a`* | `bevilacqua`* | `navigli`*
+[@agostina_cal](https://twitter.com/agostina_cal) | [@MicheleBevila20](https://twitter.com/MicheleBevila20) |[@rnavigli](https://twitter.com/rnavigli) 
 
 *`@di.uniroma1.it`
+
 ## License
 This project is released under the CC-BY-NC 4.0 license.
 
