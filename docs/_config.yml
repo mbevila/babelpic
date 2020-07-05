@@ -1,6 +1,6 @@
 title: The BabelPic Project
 logo: imgs/logo.jpg
-description: A multimodal dataset for non-concrete concept
+description: A multimodal dataset for non-concrete concepts
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
