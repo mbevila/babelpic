@@ -22,6 +22,12 @@ Download the **gold** BabelPic dataset at:
 The **silver** dataset is available at:
 * SILVER: [`.tar.gz` (Google Drive)]()
 
+## Statistics
+
+       | **Images** | **Synsets**
+---    | ---        | ---
+Gold   | XXX        | XXX
+Silver | XXX        | XXX
 
 ## Reference
 If you use our data, please cite out paper:
