@@ -15,7 +15,7 @@ You can read our ACL2020 paper on [ACL Anthology](https://www.aclweb.org/antholo
 We release our dataset as a`.tar.gz` archive containing the images in BabelPic. The filenames point to the corresponding BabelNet ids.
 
 Download the **gold** BabelPic dataset at:
-* GOLD: [`.tar.gz` (Google Drive)]()
+* GOLD: [`.tar.gz` (Google Drive)](https://drive.google.com/file/d/1pOsn2dlRaSAMjX-0x_Bj4MnSaXcHXOFs/view?usp=sharing)
 
 The **silver** dataset is available at:
 * SILVER: [`.tar.gz` (Google Drive)]()
