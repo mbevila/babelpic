@@ -12,7 +12,7 @@ You can read our ACL2020 paper on [ACL Anthology](https://www.aclweb.org/antholo
 
 ## Download
 
-We release our dataset in two formats. 
+We release our dataset in two formats: 
 * `.txt`: a tab-separated, plaintext file containing BabelNet id, url of the image, and filename (corresponding to an image file to be found in the `.tar.gz` file);
 * `.tar.gz`: an archive containing the images in BabelPic. The filenames point to the corresponding BabelNet ids.
 
