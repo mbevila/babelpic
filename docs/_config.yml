@@ -1,6 +1,6 @@
-title: Minimal theme
+title: BabelPic
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: BabelPic, a hand-labeled dataset targeting non-concrete concepts, built by cleaning the image-synset association found within the BabelNet Lexical Knowledge Base (LKB). BabelPic explicitly targets non-concrete concepts!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
