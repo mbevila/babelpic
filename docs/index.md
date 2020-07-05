@@ -17,14 +17,10 @@ We release our dataset as a`.tar.gz` archive containing the images in BabelPic. 
 Download the **gold** BabelPic dataset at:
 * GOLD: [`.tar.gz` (Google Drive)](https://drive.google.com/file/d/1pOsn2dlRaSAMjX-0x_Bj4MnSaXcHXOFs/view?usp=sharing)
 
-The **silver** dataset is available at:
-* SILVER: [`.tar.gz` (Google Drive)]()
-
 ## Statistics
 
 **Dataset** | **Images** | **Synsets**
 Gold        |  14,931    |   2,733
-Silver      |     XXX    |  10,013
 
 ## Reference
 If you use our data, please cite out paper:
