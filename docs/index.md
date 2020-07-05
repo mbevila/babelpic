@@ -7,9 +7,9 @@ Welcome to the page of the BabelPic project!
 On the left you'll find a short tl;dr of what this is all about. But, even better, you can [read our paper](https://www.aclweb.org/anthology/2020.acl-main.425/)!
 
 ## Authors
-* Agostina Calabrese | email: `calabrese.a` at `di.uniroma1.it` | twitter: [@agostina_cal](https://twitter.com/agostina_cal)
-* Michele Bevilacqua | email: `bevilacqua` at `di.uniroma1.it` | twitter: [@MicheleBevila20](https://twitter.com/MicheleBevila20)
-* Roberto Navigli | email: `navigli` at `di.uniroma1.it` | twitter: [@rnavigli](https://twitter.com/rnavigli)
+Agostina Calabrese | `calabrese.a` at `di.uniroma1.it` | twitter: [@agostina_cal](https://twitter.com/agostina_cal)
+Michele Bevilacqua | `bevilacqua` at `di.uniroma1.it`  | twitter: [@MicheleBevila20](https://twitter.com/MicheleBevila20)
+Roberto Navigli    | `navigli` at `di.uniroma1.it`     | twitter: [@rnavigli](https://twitter.com/rnavigli)
 
 ## Paper
 If you use our data, please cite out paper:
