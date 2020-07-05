@@ -39,7 +39,7 @@ We release our dataset in two formats.
 Download the **gold** BabelPic dataset at:
 * GOLD: [`.txt`](), [`.tar.gz` (Google Drive)]()
 
-The silver dataset is available at:
+The **silver** dataset is available at:
 * SILVER: [`.tar.gz` (Google Drive)]()
 
 ## License
