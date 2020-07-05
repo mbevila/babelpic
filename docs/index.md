@@ -24,10 +24,9 @@ The **silver** dataset is available at:
 
 ## Statistics
 
-       | **Images** | **Synsets**
----    | ---        | ---
-Gold   | XXX        | XXX
-Silver | XXX        | XXX
+**Dataset** | **Images** | **Synsets**
+Gold        | XXX        | XXX
+Silver      | XXX        | XXX
 
 ## Reference
 If you use our data, please cite out paper:
