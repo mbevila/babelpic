@@ -12,12 +12,10 @@ You can read our ACL2020 paper on [ACL Anthology](https://www.aclweb.org/antholo
 
 ## Download
 
-We release our dataset in two formats: 
-* `.txt`: a tab-separated, plaintext file containing BabelNet id, url of the image, and filename (corresponding to an image file to be found in the `.tar.gz` file);
-* `.tar.gz`: an archive containing the images in BabelPic. The filenames point to the corresponding BabelNet ids.
+We release our dataset as a`.tar.gz` archive containing the images in BabelPic. The filenames point to the corresponding BabelNet ids.
 
 Download the **gold** BabelPic dataset at:
-* GOLD: [`.txt`](), [`.tar.gz` (Google Drive)]()
+* GOLD: [`.tar.gz` (Google Drive)]()
 
 The **silver** dataset is available at:
 * SILVER: [`.tar.gz` (Google Drive)]()
