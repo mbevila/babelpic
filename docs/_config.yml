@@ -1,5 +1,5 @@
 title: BabelPic
-logo: /assets/img/logo.png
+logo: https://pbs.twimg.com/media/EUvjiMCXYAAg1uZ?format=jpg&name=4096x4096
 description: BabelPic, a hand-labeled dataset targeting non-concrete concepts, built by cleaning the image-synset association found within the BabelNet Lexical Knowledge Base (LKB). BabelPic explicitly targets non-concrete concepts!
 show_downloads: true
 google_analytics:
